@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Foodizone</string>
+    <string name="main_activity_text_view">Good food, good mood.</string>
+</resources>
